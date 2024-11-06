@@ -1,4 +1,6 @@
 header {
   text-align: center;
-  border-bottom: solid 10px rgb(0, 0, 0);
+  border-bottom: solid 5px rgb(0, 0, 0);
+  font-size: 32px;
+  padding: 20px;
 }

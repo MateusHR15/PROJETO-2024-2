@@ -10,8 +10,13 @@ header {
   justify-content: last baseline;
   margin-right: 57%;
   font-size: 17px;
+  background-color: cadetblue;
 }
 
 .introducao {
 font-size: 17px;
+}
+
+.video-tales {
+  background-color: cadetblue;
 }

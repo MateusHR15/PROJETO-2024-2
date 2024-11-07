@@ -8,5 +8,5 @@ header {
 .texto-tales {
   display: flex;
   justify-content: last baseline;
-
+  margin-right: 30%;
 }

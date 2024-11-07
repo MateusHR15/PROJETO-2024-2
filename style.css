@@ -8,5 +8,13 @@ header {
 .texto-tales {
   display: flex;
   justify-content: last baseline;
-  margin-right: 30%;
+  margin-right: 70%;
+  font-size: 12px;
+}
+
+
+.introducao {
+font-size: 12px;
+
+
 }

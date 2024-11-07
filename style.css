@@ -4,3 +4,9 @@ header {
   font-size: 32px;
   padding: 20px;
 }
+
+.texto-tales {
+  display: flex;
+  justify-content: last baseline;
+
+}

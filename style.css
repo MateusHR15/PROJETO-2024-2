@@ -11,7 +11,7 @@ header {
   margin-right: 60%;
   font-size: 17px;
   background-color: cadetblue;
-  margin-block: 5px rgb(0, 0, 0);
+  margin-block: solid 5px rgb(0, 0, 0);
 }
 
 .introducao {
@@ -20,6 +20,7 @@ font-size: 17px;
 
 .video-tales {
   background-color: cadetblue;
-  background-position: 60%;
-  size: 60%;
+  background-position: left ;
+  margin-right: 60%;
+  margin-block: solid 5px rgb(0, 0, 0)
 }

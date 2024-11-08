@@ -11,7 +11,7 @@ header {
   margin-right: 60%;
   font-size: 17px;
   background-color: cadetblue;
-  margin-block: solid 5px rgb(0, 0, 0);
+  margin: solid 5px rgb(0, 0, 0);
 }
 
 .introducao {
@@ -22,5 +22,5 @@ font-size: 17px;
   background-color: cadetblue;
   background-position: left ;
   margin-right: 60%;
-  margin-block: solid 5px rgb(0, 0, 0)
+  margin: solid 5px rgb(0, 0, 0)
 }
